@@ -13,6 +13,3 @@ I am currently a Bachelor of Science in Information Technology student.<br>Learn
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kujiin&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kujiin&limit=5&theme=dark&combine_all_yearly_contributions=true)
