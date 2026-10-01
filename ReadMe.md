@@ -13,7 +13,7 @@ Currently exploring software development, web technologies, automation, and crea
 
 ### Tools & Technologies
 
-[![Tools](https://skillicons.dev/icons?i=vite,vercel,cloudflare,vscode,visualstudio,pycharm,webstorm,sublime,ae,ai,ps,pr,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vite,vercel,cloudflare,vscode,visualstudio,pycharm,webstorm,ae,ai,ps,pr,figma)](https://skillicons.dev)
 
 ### What I'm into
 
@@ -27,15 +27,15 @@ Currently exploring software development, web technologies, automation, and crea
 ### Connect
 
 <p>
-  <a href="https://www.instagram.com/kujinee/" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/instagram" width="40" />
+  <a href="https://www.instagram.com/kujinee/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/cymkujin" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/linkedin" width="40" />
+  <a href="https://www.linkedin.com/in/cymkujin">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   &nbsp;
-  <a href="mailto:officiallykujin@gmail.com" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/gmail" width="40" />
+  <a href="mailto:officiallykujin@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
 </p>
