@@ -9,11 +9,11 @@ Currently exploring software development, web technologies, automation, and crea
 
 ### Featured Projects
 
-- 🤖 **Kujin - Multi Purpose Discord Bot** — Discord bot with moderation, economy, music, and utility features.
-  [Live Website](https://kujinmpb.pages.dev/)
+-- 🤖 **Kujin - Multi Purpose Discord Bot** — Discord bot with moderation, economy, music, and utility features.
+  [Visit](https://kujinmpb.pages.dev/)
 
-- 🌐 **Kujin Kullection** — Personal portfolio and project showcase.
-  [Visit Website](https://kujin.pages.dev/)
+-- 🌐 **Kujin Kullection** — Personal portfolio and project showcase.
+  [Visit](https://kujin.pages.dev/)
 
 ### Tech Stack
 
