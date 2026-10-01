@@ -9,20 +9,33 @@ Currently exploring software development, web technologies, automation, and crea
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,python,lua,mysql,apache,selenium,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,python,cpp,react,lua,mysql,selenium,maven)](https://skillicons.dev)
 
-### Creative Tools
+### Tools & Technologies
 
-[![Creative Tools](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma,canva)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=apache,ae,ai,ps,pr,figma)](https://skillicons.dev)
 
 ### What I'm into
 
 💻 Software Development  
 🌐 Web Development  
 🤖 Automation & Bots  
+🧠 Artificial Intelligence  
 🎨 UI & Design  
 🎮 Gaming & Esports  
 
 ### Connect
 
-[Instagram](https://www.instagram.com/kujinee/) · [LinkedIn](https://www.linkedin.com/in/cymkujin) · [Email](mailto:officiallykujin@gmail.com)
+<p>
+  <a href="https://www.instagram.com/kujinee/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/cymkujin">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:officiallykujin@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+</p>
