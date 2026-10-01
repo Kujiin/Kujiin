@@ -1,8 +1,28 @@
-# 💫 About Me:
-I am currently a Bachelor of Science in Information Technology student.<br>Learning something new everyday!
+# 👋 Hey, I'm Cyrus
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kujinee/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kujinee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officiallykujin@gmail.com) 
+### BS Information Technology Student · Developer · Builder
 
-# 💻 Currently learning:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+I enjoy building projects, experimenting with new technologies, and learning how things work.
+Especially with AI!
+
+Currently exploring software development, web technologies, automation, and creative tools.
+
+### Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,python,lua,mysql,apache,selenium,maven)](https://skillicons.dev)
+
+### Creative Tools
+
+[![Creative Tools](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma,canva)](https://skillicons.dev)
+
+### What I'm into
+
+💻 Software Development  
+🌐 Web Development  
+🤖 Automation & Bots  
+🎨 UI & Design  
+🎮 Gaming & Esports  
+
+### Connect
+
+[Instagram](https://www.instagram.com/kujinee/) · [LinkedIn](https://www.linkedin.com/in/cymkujin) · [Email](mailto:officiallykujin@gmail.com)
