@@ -32,6 +32,8 @@ Currently exploring software development, web technologies, automation, and crea
 🎨 UI & Design  
 🎮 Gaming & Esports  
 
+-- (most repositories are private) --
+
 ### Connect
 
 <p>
