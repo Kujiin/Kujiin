@@ -15,6 +15,9 @@ Currently exploring software development, web technologies, automation, and crea
 -- 🌐 **Kujin Kullection** — Personal portfolio and project showcase.
   [Visit](https://kujin.pages.dev/)
 
+-- 🌐 **TechVerseBD** — Bangladesh based client, technology marketplace.
+  [Visit](https://techversebd.pages.dev/)
+
 ### Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,html,css,python,cpp,react,lua,mysql,selenium,maven)](https://skillicons.dev)
