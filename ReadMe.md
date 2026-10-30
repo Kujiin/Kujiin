@@ -29,7 +29,7 @@ Developer-focused project exploring AI integration, coding workflows, and develo
 Modern parking discovery platform built with React, focused on making parking easier and more accessible.
 
 [Visit Website](https://parkiva.vercel.app/)
-
+  
 </td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ Technology marketplace developed for a Bangladesh-based client.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" width="100%" valign="top">
 
 ### 🤖 Kujin MPB
 Multi-purpose Discord bot featuring moderation, economy, music, and utility features.
