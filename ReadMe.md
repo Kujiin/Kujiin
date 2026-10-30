@@ -50,6 +50,16 @@ Technology marketplace developed for a Bangladesh-based client.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Kujin MPB
+Multi-purpose Discord bot featuring moderation, economy, music, and utility features.
+
+[Visit Website](https://kujinmpb.pages.dev/)
+
+</td>
+</tr>
 </table>
 
 ### 🛠️ Tech Stack
